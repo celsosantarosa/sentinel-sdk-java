@@ -16,7 +16,7 @@ public class HttpService {
 	
 	private String key;
 	private String secret;
-	private String host = "http://dev.localhost.com:3000";
+	private String host = "https://api.sentinelapp.com";
 	
 	private WebResource service;
 
