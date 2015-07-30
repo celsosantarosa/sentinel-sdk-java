@@ -2,7 +2,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.tempest.sentinelapi</groupId>
+  <groupId>br.com.tempest.sentinelapi</groupId>
   <artifactId>sentinelapi</artifactId>
   <version>2.9.4</version>
   <packaging>jar</packaging>
