@@ -1,4 +1,4 @@
-package com.tempest.sentinelapi;
+package br.com.tempest.sentinelapi;
 
 public class ResourceNotFoundException extends RuntimeException {
 

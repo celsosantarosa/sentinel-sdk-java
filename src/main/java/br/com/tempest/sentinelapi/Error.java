@@ -1,4 +1,4 @@
-package com.tempest.sentinelapi;
+package br.com.tempest.sentinelapi;
 
 import org.codehaus.jackson.annotate.JsonIgnoreProperties;
 import org.codehaus.jackson.annotate.JsonProperty;

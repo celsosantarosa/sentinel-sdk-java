@@ -1,4 +1,4 @@
-package com.tempest.sentinelapi;
+package br.com.tempest.sentinelapi;
 
 import java.util.List;
 

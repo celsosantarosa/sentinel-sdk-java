@@ -1,4 +1,4 @@
-package com.tempest.sentinelapi;
+package br.com.tempest.sentinelapi;
 
 import java.util.ArrayList;
 import java.util.Date;
@@ -9,13 +9,12 @@ import java.util.Map;
 import org.easymock.EasyMock;
 import org.junit.Assert;
 
-import com.tempest.sentinelapi.Capabilities;
-import com.tempest.sentinelapi.Context;
-import com.tempest.sentinelapi.Device;
-import com.tempest.sentinelapi.HttpService;
-import com.tempest.sentinelapi.User;
-import com.tempest.sentinelapi.Process;
-
+import br.com.tempest.sentinelapi.Capabilities;
+import br.com.tempest.sentinelapi.Context;
+import br.com.tempest.sentinelapi.Device;
+import br.com.tempest.sentinelapi.HttpService;
+import br.com.tempest.sentinelapi.Process;
+import br.com.tempest.sentinelapi.User;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
